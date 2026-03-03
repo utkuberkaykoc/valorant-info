@@ -1,7 +1,7 @@
 {
   "name": "valorant-info",
-  "version": "1.1.5",
-  "description": "A Node.js wrapper for retrieving Valorant game data, including agents, weapons, and maps. Supports multi-language translation!",
+  "version": "2.0.0",
+  "description": "A Node.js wrapper for Valorant game data with random agent/weapon picker, team generator, smart caching, and multi-language support.",
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
