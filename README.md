@@ -1,4 +1,7 @@
-# Valorant Info - Unofficial Valorant API Wrapper for Node.js
+# Valorant Info - Unofficial Valorant API Wrapper for Node.js 🎮
+
+✅ **Free to use!**
+🔥 Retrieve **Valorant** agent, weapon, and map data with ease! **Multi-language** support included.
 
 ![NPM Version](https://img.shields.io/npm/v/valorant-info?color=blue&style=flat-square)
 ![Downloads](https://img.shields.io/npm/dt/valorant-info?color=green&style=flat-square)
